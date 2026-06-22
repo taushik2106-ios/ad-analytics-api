@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+pydantic
+tenacity
+openai
+python-dotenv
